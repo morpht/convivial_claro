@@ -1,6 +1,6 @@
-# Convivial Admin
+# Convivial Claro
 
-This theme extends Adminimal administration theme.
+This theme extends Claro administration theme.
 
 ## Licence
 
