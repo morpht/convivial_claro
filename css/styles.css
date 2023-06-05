@@ -9,3 +9,12 @@
 .dropbutton-widget ul.dropbutton {
   padding-left: 0;
 }
+
+/* Paragraphs layout controls fix */
+.lpb-controls {
+  color: #232429;
+}
+
+.js-lpb-ui {
+  position: absolute !important;
+}
