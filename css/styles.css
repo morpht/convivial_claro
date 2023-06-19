@@ -18,3 +18,12 @@
 .js-lpb-ui {
   position: absolute !important;
 }
+
+/* Table cell width fix */
+.tabledrag-cell-content {
+  display: table-cell;
+}
+
+.form-wrapper {
+  width: auto !important;
+}
