@@ -32,8 +32,3 @@
 .tabledrag-cell-content .form-wrapper {
   width: auto;
 }
-
-/* Ckeditor fixes */
-figure.drupal-media.ck-widget {
-  width: 100%;
-}
